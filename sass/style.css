@@ -5,4 +5,17 @@
 
 #news-detail {
   background-color: #E8E8E8;
+}
+
+.listtitle {
+  background-color: #f39700;
+  color: white;
+}
+
+.list-bg {
+  background-color: #e8e8e8 !important;
+}
+
+.lead {
+  background-color: #fff;
 }/*# sourceMappingURL=style.css.map */
